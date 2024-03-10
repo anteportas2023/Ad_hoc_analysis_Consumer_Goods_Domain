@@ -33,4 +33,10 @@ WHERE customer="Atliq Exclusive"
 
 - **Output**
 
+![Q1.answer](https://github.com/anteportas2023/Ad_hoc_analysis_Consumer_Goods_Domain/blob/main/Insight%20%26%20Output/Q1_answer.png)
+
+- **Insights**
+
+
+
 
