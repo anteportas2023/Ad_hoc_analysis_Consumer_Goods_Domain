@@ -4,6 +4,12 @@ Codebasics SQL project on Provide Insights to Management in Consumer Goods Domai
 
 Challenge [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
+### Table of Contents
+
+- [Company Overview And Problem Statement](#company-overview-and-problem-statement)
+- [Data Inputs](#data-inputs)
+- [Ad hoc Request Along With the Result Visualization and Insights](#ad-hoc-request-along-with-the-result-visualization-and-insights)
+
 ### Company Overview And Problem Statement
 
 Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
@@ -19,7 +25,7 @@ However, the management noticed that they do not get enough insights to make qui
 
 ![Data Inputs](https://github.com/anteportas2023/Ad_hoc_analysis_Consumer_Goods_Domain/blob/main/Datasets/ERD_Data_inputs.png)
 
-### Ad-hoc Request Along With the Result, Visualization and Insights
+### Ad hoc Request Along With the Result, Visualization and Insights
 
 - Q1: Provide the list of markets in which customer Atliq Exclusive operates its business in the APAC region
 
