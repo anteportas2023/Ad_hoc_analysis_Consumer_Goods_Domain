@@ -12,10 +12,15 @@ However, the management noticed that they do not get enough insights to make qui
 
 #### Task
 
-
 - There are 10 ad hoc requests to run a SQL query to answer these requests.
 - The target audience of this Project is top-level management – and create a presentation to show the insights.
 
 ### Data Inputs
+
+![Data Inputs](https://github.com/anteportas2023/Ad_hoc_analysis_Consumer_Goods_Domain/blob/main/Datasets/ERD_Data_inputs.png)
+
+### Ad-hoc Request Along With the Result, Visualization and Insights
+
+- Q1: Provide the list of markets in which customer Atliq Exclusive operates its business in the APAC region
 
 
